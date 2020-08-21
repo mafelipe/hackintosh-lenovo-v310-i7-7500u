@@ -2,11 +2,11 @@
 EFI folder to latptop lenovo v310 - Mojave
 
 WORK:
-
-Bluetooth 
-USB Port
-FaceTime
-iMessage
+==
+Bluetooth,
+USB Port,
+FaceTime,
+iMessage,
 Trackpad, all gestures
 
 You can see video test on Youtube:
